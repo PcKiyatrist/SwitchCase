@@ -1,2 +1,3 @@
 # SwitchCase
-Switch-Case ile Hesap Makinasi
+Switch-Case ile Hesap Makinesi
+[Patika Dev](https://www.patika.dev/tr)
